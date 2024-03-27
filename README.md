@@ -32,7 +32,8 @@
 </a>
 </p>
 
-# Swiper
+# Swiper-V
+## Il mio repository per il progetto originale "swiper"
 
 Swiper - is the free and most modern mobile touch slider with hardware accelerated transitions and amazing native behavior. It is intended to be used in mobile websites, mobile web apps, and mobile native/hybrid apps.
 
